@@ -4,26 +4,19 @@
   
     
     <entry>
-      <title>端午节，节日安康！</title>
-      <link href="/2022/06/03/%E7%AB%AF%E5%8D%88%E8%8A%82%EF%BC%8C%E8%8A%82%E6%97%A5%E5%AE%89%E5%BA%B7%EF%BC%81/"/>
-      <url>/2022/06/03/%E7%AB%AF%E5%8D%88%E8%8A%82%EF%BC%8C%E8%8A%82%E6%97%A5%E5%AE%89%E5%BA%B7%EF%BC%81/</url>
+      <title>关于电脑文件下的索引</title>
+      <link href="/2022/06/05/%E5%85%B3%E4%BA%8E%E7%94%B5%E8%84%91%E6%96%87%E4%BB%B6%E4%B8%8B%E7%9A%84%E7%B4%A2%E5%BC%95/"/>
+      <url>/2022/06/05/%E5%85%B3%E4%BA%8E%E7%94%B5%E8%84%91%E6%96%87%E4%BB%B6%E4%B8%8B%E7%9A%84%E7%B4%A2%E5%BC%95/</url>
       
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>hexo-next主题的部分优化</title>
-      <link href="/2022/06/01/2022-06-01-hexo-next%E4%B8%BB%E9%A2%98%E7%9A%84%E9%83%A8%E5%88%86%E4%BC%98%E5%8C%96/"/>
-      <url>/2022/06/01/2022-06-01-hexo-next%E4%B8%BB%E9%A2%98%E7%9A%84%E9%83%A8%E5%88%86%E4%BC%98%E5%8C%96/</url>
-      
-        <content type="html"><![CDATA[<p>在GitHub的hexo-themes下拥有众多主题可更选，但是Next仍占据榜首不是没有其理由，大部分第一次在GitHub建库去创建自己的博客，Next应该是众多up主的首选推荐，当我们在真正对某一主题自身的_config.yml文件中学习大多的时候，也就可以自由去选择，去更换其他的主题了！！！<br>以下针对Next主题：</p><span id="more"></span><h3 id="hexo-next-主题"><a href="#hexo-next-主题" class="headerlink" title="hexo-next(主题)"></a>hexo-next(主题)</h3><h5 id="1）下载"><a href="#1）下载" class="headerlink" title="1）下载"></a>1）下载</h5><pre><code>1.第一种（优先推荐，就一行代码你说该不该推荐）： git clone https://github.com/theme-next/hexo-theme-next next它的内容是去GitHub将库hexo-theme-next 克隆在你根目录的themes文件里2.正儿八经做个老实人，登录GitHub搜索hexo theme，你放心，第一行显示的绝对是关于Next主题的库！</code></pre><h5 id="2）部分优化："><a href="#2）部分优化：" class="headerlink" title="2）部分优化："></a>2）部分优化：</h5><pre><code>未来继续更，哈哈哈哈，不是鸽子！！！</code></pre><img src="https://img-blog.csdnimg.cn/20200522164615538.gif" width=120 height=120 /> ]]></content>
+        <content type="html"><![CDATA[<h1 id="思考"><a href="#思考" class="headerlink" title="思考"></a>思考</h1><p>提问：为什么自己明明按照教程来索引自己电脑文件，但是教程上就一次性成功，而自己的索引还是失败？</p><h3 id="x2F-和-的区别"><a href="#x2F-和-的区别" class="headerlink" title="&#x2F;和\的区别"></a>&#x2F;和\的区别</h3><pre><code>主要针对用途不同、系统不同、网址不同</code></pre><h5 id="用途不同"><a href="#用途不同" class="headerlink" title="用途不同"></a>用途不同</h5><pre><code>1.“\”：只能用来表示目录2.“/”：既能作为除法或者间隔符号使用，也能用来表示目录</code></pre><h5 id="系统不同"><a href="#系统不同" class="headerlink" title="系统不同"></a>系统不同</h5><pre><code>1.“\”：作目录时，适用于windows系统2.“/”：作目录时，适用于unix系统</code></pre><h5 id="网址不同"><a href="#网址不同" class="headerlink" title="网址不同"></a>网址不同</h5><pre><code>1.“\”：不能作为网址URL中2.“/”：在网址中，可以作为请求目录</code></pre><p><img src="https://img-blog.csdnimg.cn/20200522164615538.gif" alt="在线.gif"></p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 文件索引 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -34,13 +27,19 @@
       <link href="/2022/05/31/2022-05-31-MarkDown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/"/>
       <url>/2022/05/31/2022-05-31-MarkDown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</url>
       
-        <content type="html"><![CDATA[<h3 id="基本语法"><a href="#基本语法" class="headerlink" title="基本语法"></a>基本语法</h3><h6 id="1-标题"><a href="#1-标题" class="headerlink" title="1.标题"></a>1.标题</h6><pre><code>注：# 后面必须保持空格（和使用 h1/h2 标签功能类似）||最多可以6级标题   Eg：&quot;### h&quot;  是三级标题     &quot;######  h&quot;是六级标题 </code></pre><h6 id="2-TOC"><a href="#2-TOC" class="headerlink" title="2.TOC"></a>2.TOC</h6><pre><code>注：根据标题生成目录</code></pre><h6 id="3-引用"><a href="#3-引用" class="headerlink" title="3.引用"></a>3.引用</h6><pre><code>格式：&gt;引用的内容同标题一样，共六级，可以嵌套示例：&gt;hello!</code></pre><p>示例结果：    </p><blockquote><p>hello</p></blockquote><h6 id="4-语义标签-html"><a href="#4-语义标签-html" class="headerlink" title="4.语义标签(html)"></a>4.语义标签(html)</h6><pre><code>示例：  &lt;i&gt;斜体&lt;/i&gt;    &lt;b&gt;加粗&lt;/b&gt;    &lt;em&gt;强调&lt;/em&gt;    &lt;u&gt;下划线&lt;/u&gt;     &lt;del&gt;删除&lt;/del&gt;    Z&lt;sup&gt;a&lt;/sup&gt;    Z&lt;sub&gt;a&lt;/sub&gt;    &lt;kbd&gt;Ctrl&lt;/kbd&gt;</code></pre><h6 id="5-自定义语法（根据不同的语言配置不同的代码着色）"><a href="#5-自定义语法（根据不同的语言配置不同的代码着色）" class="headerlink" title="5.自定义语法（根据不同的语言配置不同的代码着色）"></a>5.自定义语法（根据不同的语言配置不同的代码着色）</h6><p>代码：   </p><pre><code>var num = 0;for (var i = 0; i &lt; 5; i++) &#123;num+=i;&#125;console.log(num);</code></pre><h6 id="6-插入链接"><a href="#6-插入链接" class="headerlink" title="6.插入链接"></a>6.插入链接</h6><pre><code>格式：[mingzi](链接 &#39;描述&#39;)示例：[百度](http://www.baidu.com/ &#39;点击打开&#39;)</code></pre><p>示例结果:<a href="http://www.baidu.com/" title="点击打开">百度</a></p><h6 id="7-插入图片（本地-amp-在线）"><a href="#7-插入图片（本地-amp-在线）" class="headerlink" title="7.插入图片（本地&amp;在线）"></a>7.插入图片（本地&amp;在线）</h6><p><strong>在线</strong>：</p><pre><code>在线示例：![](https://img-blog.csdnimg.cn/20200522164615538.gif)</code></pre><p>示例结果：</p><p><img src="https://img-blog.csdnimg.cn/20200522164615538.gif"> </p><p><strong>本地</strong>   </p><pre><code>格式： ![描述](图片链接 &quot;optional title&quot;)示例1：![博客本人](E:/Blog/source/_posts/blog-images/MarkDown基本语法/author.jpg)示例2：![](./blog-images/MarkDown基本语法/author.jpg)</code></pre><p>示例1、2结果：实验验证均可以</p><hr><p><strong>思考，还有其他方法吗？<br>在上述markdown引用时，我们无法改变其他参数，例如大小等，所以解析来我们以html引用设置图像百分比</strong>   </p><p>html：</p><pre><code>格式：&lt;img src=&quot;在线图片&quot; width=&quot;&quot; height=&quot;&quot; /&gt;示例：&lt;img src=&quot;https://img-blog.csdnimg.cn/20200522164615538.gif&quot; width=120 height=120 /&gt;      &lt;img src=&quot;./blog-images/MarkDown基本语法/author.jpg&quot; width=&quot;120&quot; height=&quot;120&quot; /&gt;</code></pre><p>示例结果：</p><img src="https://img-blog.csdnimg.cn/20200522164615538.gif" width=120 height=120 /> <h6 id="8-插入视频"><a href="#8-插入视频" class="headerlink" title="8.插入视频"></a>8.插入视频</h6><pre><code>eg：注：Markdown 语法是不支持直接插入视频的普遍的做法是 插入 HTML 的 iframe 框架，通过网站自带的分享功能获取，如果没有可以尝试第二种方法第二是伪造播放界面，实质是插入视频图片，然后通过点击跳转到相关页面</code></pre><p>示例：</p><pre><code>&lt;iframe height=300 width=300  src=&#39;http://player.youku.com/embed/XMjgzNzM0NTYxNg==&#39; frameborder=0 &gt;&lt;/iframe&gt;</code></pre><h6 id="9-代码包裹"><a href="#9-代码包裹" class="headerlink" title="9.代码包裹"></a>9.代码包裹</h6><p><strong>单行包裹</strong>：</p><pre><code>示例：`hello`</code></pre><p><code>hello</code></p><p><strong>多行包裹</strong>：</p><pre><code>示例：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hello</span><br><span class="line">    hello</span><br><span class="line">        hello</span><br></pre></td></tr></table></figure></code></pre><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">function <span class="title function_">a</span> <span class="params">()</span> &#123;</span><br><span class="line"></span><br><span class="line"><span class="built_in">printf</span>(</span><br><span class="line">    hello</span><br><span class="line">        hello</span><br><span class="line">            hello<span class="string">&quot;)</span></span><br><span class="line"><span class="string">&#125;    </span></span><br></pre></td></tr></table></figure><h6 id="10-表格"><a href="#10-表格" class="headerlink" title="10.表格"></a>10.表格</h6><pre><code>示例：|123|234|345||:-|:-:|-:||abc|bcd|cde||abc|bcd|cde||abc|bcd|cde|</code></pre><p>结果</p><table><thead><tr><th align="left">123</th><th align="center">234</th><th align="right">345</th></tr></thead><tbody><tr><td align="left">abc</td><td align="center">bcd</td><td align="right">cde</td></tr><tr><td align="left">abc</td><td align="center">bcd</td><td align="right">cde</td></tr><tr><td align="left">abc</td><td align="center">bcd</td><td align="right">cde</td></tr></tbody></table><h6 id="11-隐藏部分内容"><a href="#11-隐藏部分内容" class="headerlink" title="11.隐藏部分内容"></a>11.隐藏部分内容</h6><pre><code>方法1：在需要截断的地方加入：&lt;!-- more --&gt;方法2：---        title: 让首页显示部分内容        date: 2020-10-13 15:34:10        description: 这是显示在首页的概述，正文内容均会被隐藏。        ---随后重新hexo clean</code></pre><h6 id="12-文章置顶"><a href="#12-文章置顶" class="headerlink" title="12.文章置顶"></a>12.文章置顶</h6><pre><code>sticky: 1</code></pre><h6 id="13-图片覆盖"><a href="#13-图片覆盖" class="headerlink" title="13.图片覆盖"></a>13.图片覆盖</h6><pre><code>cover: \img\background.jpg</code></pre>]]></content>
+        <content type="html"><![CDATA[<h3 id="基本语法"><a href="#基本语法" class="headerlink" title="基本语法"></a>基本语法</h3><h6 id="1-标题"><a href="#1-标题" class="headerlink" title="1.标题"></a>1.标题</h6><pre><code>注：# 后面必须保持空格（和使用 h1/h2 标签功能类似）||最多可以6级标题   Eg：&quot;### h&quot;  是三级标题     &quot;######  h&quot;是六级标题 </code></pre><h6 id="2-TOC"><a href="#2-TOC" class="headerlink" title="2.TOC"></a>2.TOC</h6><pre><code>注：根据标题生成目录</code></pre><h6 id="3-引用"><a href="#3-引用" class="headerlink" title="3.引用"></a>3.引用</h6><pre><code>格式：&gt;引用的内容同标题一样，共六级，可以嵌套示例：&gt;hello!</code></pre><p>示例结果：    </p><blockquote><p>hello</p></blockquote><h6 id="4-语义标签-html"><a href="#4-语义标签-html" class="headerlink" title="4.语义标签(html)"></a>4.语义标签(html)</h6><pre><code>示例：  &lt;i&gt;斜体&lt;/i&gt;    &lt;b&gt;加粗&lt;/b&gt;    &lt;em&gt;强调&lt;/em&gt;    &lt;u&gt;下划线&lt;/u&gt;     &lt;del&gt;删除&lt;/del&gt;    Z&lt;sup&gt;a&lt;/sup&gt;    Z&lt;sub&gt;a&lt;/sub&gt;    &lt;kbd&gt;Ctrl&lt;/kbd&gt;</code></pre><h6 id="5-自定义语法（根据不同的语言配置不同的代码着色）"><a href="#5-自定义语法（根据不同的语言配置不同的代码着色）" class="headerlink" title="5.自定义语法（根据不同的语言配置不同的代码着色）"></a>5.自定义语法（根据不同的语言配置不同的代码着色）</h6><p>代码：   </p><pre><code>var num = 0;for (var i = 0; i &lt; 5; i++) &#123;num+=i;&#125;console.log(num);</code></pre><h6 id="6-插入链接"><a href="#6-插入链接" class="headerlink" title="6.插入链接"></a>6.插入链接</h6><pre><code>格式：[mingzi](链接 &#39;描述&#39;)示例：[百度](http://www.baidu.com/ &#39;点击打开&#39;)</code></pre><p>示例结果:<a href="http://www.baidu.com/" title="点击打开">百度</a></p><h6 id="7-插入图片（本地-amp-在线）"><a href="#7-插入图片（本地-amp-在线）" class="headerlink" title="7.插入图片（本地&amp;在线）"></a>7.插入图片（本地&amp;在线）</h6><p><strong>在线</strong>：</p><pre><code>在线示例：![](https://img-blog.csdnimg.cn/20200522164615538.gif)</code></pre><p>示例结果：</p><p><img src="https://img-blog.csdnimg.cn/20200522164615538.gif"> </p><p><strong>本地</strong>   </p><pre><code>格式： ![描述](图片链接 &quot;optional title&quot;)示例1：![博客本人](E:/Blog/source/_posts/blog-images/MarkDown基本语法/author.jpg)示例2：![](./blog-images/MarkDown基本语法/author.jpg)</code></pre><p>示例1、2结果：实验验证均可以,如果还是没出来图片，索引路径尽量全英文。</p><p>经过实验验证，建议在_post文件下直接新建立一个img文件夹（全英且建议里面不要再建立额外的文件夹，保证里面全是图片,图片名也得是非中文），存放博客的图片，简洁高效！</p><hr><p><strong>思考，还有其他方法吗？<br>在上述markdown引用时，我们无法改变其他参数，例如大小等，所以解析来我们以html引用设置图像百分比</strong>   </p><p>html：</p><pre><code>格式：&lt;img src=&quot;在线图片&quot; width=&quot;&quot; height=&quot;&quot; /&gt;示例：&lt;img src=&quot;https://img-blog.csdnimg.cn/20200522164615538.gif&quot; width=120 height=120 /&gt;      &lt;img src=&quot;./blog-images/MarkDown基本语法/author.jpg&quot; width=&quot;120&quot; height=&quot;120&quot; /&gt;</code></pre><p>示例结果：</p><img src="https://img-blog.csdnimg.cn/20200522164615538.gif" width=120 height=120 /> <h6 id="8-插入视频"><a href="#8-插入视频" class="headerlink" title="8.插入视频"></a>8.插入视频</h6><pre><code>eg：注：Markdown 语法是不支持直接插入视频的普遍的做法是 插入 HTML 的 iframe 框架，通过网站自带的分享功能获取，如果没有可以尝试第二种方法第二是伪造播放界面，实质是插入视频图片，然后通过点击跳转到相关页面</code></pre><p>示例：</p><pre><code>&lt;iframe height=300 width=300  src=&#39;http://player.youku.com/embed/XMjgzNzM0NTYxNg==&#39; frameborder=0 &gt;&lt;/iframe&gt;</code></pre><h6 id="9-代码包裹"><a href="#9-代码包裹" class="headerlink" title="9.代码包裹"></a>9.代码包裹</h6><p><strong>单行包裹</strong>：</p><pre><code>示例：`hello`</code></pre><p><code>hello</code></p><p><strong>多行包裹</strong>：</p><pre><code>示例：<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hello</span><br><span class="line">    hello</span><br><span class="line">        hello</span><br></pre></td></tr></table></figure></code></pre><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">function <span class="title function_">a</span> <span class="params">()</span> &#123;</span><br><span class="line"></span><br><span class="line"><span class="built_in">printf</span>(</span><br><span class="line">    hello</span><br><span class="line">        hello</span><br><span class="line">            hello<span class="string">&quot;)</span></span><br><span class="line"><span class="string">&#125;    </span></span><br></pre></td></tr></table></figure><h6 id="10-表格"><a href="#10-表格" class="headerlink" title="10.表格"></a>10.表格</h6><pre><code>示例：|123|234|345||:-|:-:|-:||abc|bcd|cde||abc|bcd|cde||abc|bcd|cde|</code></pre><p>结果</p><table><thead><tr><th align="left">123</th><th align="center">234</th><th align="right">345</th></tr></thead><tbody><tr><td align="left">abc</td><td align="center">bcd</td><td align="right">cde</td></tr><tr><td align="left">abc</td><td align="center">bcd</td><td align="right">cde</td></tr><tr><td align="left">abc</td><td align="center">bcd</td><td align="right">cde</td></tr></tbody></table><h6 id="11-隐藏部分内容"><a href="#11-隐藏部分内容" class="headerlink" title="11.隐藏部分内容"></a>11.隐藏部分内容</h6><pre><code>方法1：在需要截断的地方加入：&lt;!-- more --&gt;方法2：---        title: 让首页显示部分内容        date: 2020-10-13 15:34:10        description: 这是显示在首页的概述，正文内容均会被隐藏。        ---随后重新hexo clean</code></pre><h6 id="12-文章置顶"><a href="#12-文章置顶" class="headerlink" title="12.文章置顶"></a>12.文章置顶</h6><pre><code>sticky: 1</code></pre><h6 id="13-图片覆盖"><a href="#13-图片覆盖" class="headerlink" title="13.图片覆盖"></a>13.图片覆盖</h6><pre><code>cover: \img\background.jpg</code></pre>]]></content>
       
+      
+      <categories>
+          
+          <category> 语法 </category>
+          
+      </categories>
       
       
         <tags>
             
-            <tag> 语法 </tag>
+            <tag> MD语法 </tag>
             
         </tags>
       
@@ -53,21 +52,19 @@
       <link href="/2022/05/31/2022-05-31-hexo%E9%83%A8%E5%88%86%E4%BD%BF%E7%94%A8/"/>
       <url>/2022/05/31/2022-05-31-hexo%E9%83%A8%E5%88%86%E4%BD%BF%E7%94%A8/</url>
       
-        <content type="html"><![CDATA[<h2 id="作用"><a href="#作用" class="headerlink" title="作用"></a>作用</h2><p>tags的作用：<strong>添加标签</strong><br>categories的作用：<strong>添加分类</strong></p><blockquote><p>未来继续更，哈哈哈哈，不是鸽子！！！等以后真的掌握好_config.yml，先对其进行解读（包含站点文件以及主题文件下的解读）</p></blockquote><p>Eg：冒号必须加空格！！！</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="作用"><a href="#作用" class="headerlink" title="作用"></a>作用</h2><p>tags的作用：<strong>添加标签</strong><br>categories的作用：<strong>添加分类</strong></p><blockquote><p>未来继续更，哈哈哈哈，不是鸽子！！！等以后真的掌握好_config.yml，先对其进行解读（包含站点文件以及主题文件下的解读）</p></blockquote><p>Eg：冒号必须加空格！！！</p><p><img src="/./img/back_blue.png"></p>]]></content>
       
       
       <categories>
           
-          <category> 前端 </category>
+          <category> 使用 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 导航 </tag>
-            
-            <tag> 分享 </tag>
+            <tag> hexo使用 </tag>
             
         </tags>
       
